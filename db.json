@@ -1,12 +1,7 @@
 [
     {
-        "uuid": "test",
+        "uuid": "e0f6e6e6-b818-45b0-94c1-99b1839ebdbb",
         "cape-enabled": "true",
-        "cape-type": "Beta"
-    },
-    {
-        "uuid": "test2",
-        "cape-enabled": "true",
-        "cape-type": "Beta"
+        "cape-type": "Owner"
     }
 ]
