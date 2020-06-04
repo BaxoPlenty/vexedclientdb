@@ -3,5 +3,10 @@
         "uuid": "test",
         "cape-enabled": "true",
         "cape-type": "Owner"
+    },
+    {
+        "uuid": "test2",
+        "cape-enabled": "true",
+        "cape-type": "Beta"
     }
 ]
