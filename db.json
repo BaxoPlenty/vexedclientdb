@@ -7,8 +7,8 @@
     },
     {
         "uuid": "0",
-        "whitelisted": "false",
+        "whitelisted": "true",
         "cape-enabled": "true",
-        "cape-type": "Blitz"
+        "cape-type": "Beta"
     }
 ]
