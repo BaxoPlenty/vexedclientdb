@@ -7,7 +7,7 @@
     },
     {
         "uuid": "0",
-        "whitelisted": "true",
+        "whitelisted": "false",
         "cape-enabled": "true",
         "cape-type": "Blitz"
     }
