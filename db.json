@@ -9,9 +9,9 @@
         "uuid": "0",
         "whitelisted": "true",
         "cape-enabled": "true",
-        "cape-type": "Blitz"
-        "cosmetics" {
-            "Wings"
+        "cape-type": "Blitz",
+        "cosmetics": {
+          "Wings"
         }
     }
 ]
