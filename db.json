@@ -10,7 +10,7 @@
         "whitelisted": "true",
         "cape-enabled": "true",
         "cape-type": "Blitz"
-        "cosmetics": {
+        "cosmetics" {
             "Wings"
         }
     }
